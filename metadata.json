@@ -1,0 +1,5 @@
+{
+  "name": "Muscat Bay Water System Dashboard",
+  "description": "A modern, interactive dashboard to visualize the Muscat Bay water distribution system, track consumption, and identify water loss across a hierarchical network of meters.",
+  "requestFramePermissions": []
+}
